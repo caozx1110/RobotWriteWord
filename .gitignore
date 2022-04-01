@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+x64/
+
+*.user
+
+*.fliters
+
+*.vcxproj
+
+.vscode/
+
+Debug/
+
+*.sln
