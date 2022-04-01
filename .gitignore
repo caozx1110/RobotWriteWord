@@ -35,7 +35,7 @@ x64/
 
 *.user
 
-*.fliters
+*.vcxproj.fliters
 
 *.vcxproj
 
