@@ -35,7 +35,7 @@ x64/
 
 *.user
 
-*.vcxproj.fliters
+*.vcxproj.filters
 
 *.vcxproj
 
